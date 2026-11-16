@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Mukesh!
+# 👋 Hi, I'm Mukesh Babu M!
 
 ### Building Web Applications with AI | Website Developer at Quantora Digital | Open-Source at Vruntime Labs
 
-I'm a student interested in technology, AI-assisted development, web applications, and digital product creation. I enjoy exploring new ideas, working on digital projects, and learning how technology can turn concepts into useful products.
+I'm a student interested in technology, AI-assisted development, and building digital projects. I enjoy exploring new ideas and learning how technology can turn concepts into useful products.
 
 ## 💫 About Me
 
-- 🎓 ISC Class 11 Student | PCM | JEE Aspirant.
-- 💼 Website Developer at **Quantora Digital (QD)**.
+- 🎓 ISC Class 11 Student | JEE Aspirant.
+- 💼 Website Developer & Manager at **Quantora Digital (QD)**.
 - 🚀 Founder of **Vruntime Labs**, an independent open-source initiative.
 - 💻 Exploring AI-assisted web development and digital product creation.
 - 🔍 Interested in technology, web applications, and practical AI tools.
@@ -17,9 +17,7 @@ I'm a student interested in technology, AI-assisted development, web application
 
 ---
 
-## 🚀 Projects
-
-Here are some projects associated with Vruntime Labs that I'm exploring and working on.
+## 🚀 Featured Projects
 
 ### 1. PhantomX OS
 An open-source project exploring operating-system concepts.
@@ -32,7 +30,7 @@ A digital product and store-related project.
 🔗 [View Repository](https://github.com/vruntime-labs/oqerun-store)
 
 ### 3. Vruntime Ink Theme
-A theme project under Vruntime Labs.
+A theme project developed under Vruntime Labs.
 
 🔗 [View Repository](https://github.com/vruntime-labs/vruntime-ink-theme)
 
@@ -41,7 +39,7 @@ A theme project under Vruntime Labs.
 ## 🏢 Organisations
 
 ### Quantora Digital (QD)
-**Website Developer**
+**Website Developer & Manager**
 
 Exploring website development and digital experiences.
 
@@ -54,7 +52,10 @@ Exploring digital projects and open-source ideas.
 
 ## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-babu-735a1344b)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mukesh._2010)
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mmukeshbabu.2010@gmail.com)
 
 ---
@@ -69,21 +70,9 @@ Exploring digital projects and open-source ideas.
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mmukeshbabu2010-dot&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ### ✍️ Random Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🔝 Top Contributed Repository
-
-![](https://github-contributor-stats.vercel.app/api?username=mmukeshbabu2010-dot&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
 
